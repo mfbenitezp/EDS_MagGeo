@@ -1,4 +1,4 @@
-name: template-jp
+name: general-modelling-birdtracking_maggeo
 channels:
   - conda-forge
   - defaults
