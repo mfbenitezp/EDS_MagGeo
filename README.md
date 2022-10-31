@@ -4,7 +4,7 @@ This template contains a GitHub action to automate and scheduling execution of J
 
 ## Steps
 
-* Upload a single notebook `*.ipynb` file. For instance, you can use the templates by theme (Exploration, Preprocessing, Modelling, Postprocessing)  provided by the Environmental Data Science book repository.
+* Upload a single notebook `*.ipynb` file. For instance, you can use the templates by theme (Exploration, Preprocessing, Modelling, Postprocessing)  provided by the Environmental Data Science book repository [DONE]
 * Modify the config file with the notebook file name.
 * Upload a conda environment.yml file containing the libraries to run the executable notebook.
 
