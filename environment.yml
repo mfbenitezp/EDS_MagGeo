@@ -4,6 +4,7 @@ channels:
   - defaults
 dependencies:
   - python
+  - pip
   - pip:
     - markupsafe==2.0.1
     - viresclient==0.10.0
